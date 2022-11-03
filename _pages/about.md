@@ -16,7 +16,7 @@ I [really](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493L..22E/abstract) [do](
 
 I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https://astronomy.yale.edu/) (B.S., astrophysics, 2016) and a graduate student at [UC Berkeley](https://astro.berkeley.edu/) (Ph.D., astrophysics, 2021). I moved to Harvard in 2021. Besides astronomy, I like food, running, hiking and cycling, playing chess, and memes.
 
-I am happy to talk anytime with Harvard grads and undergrads interested in working on a research project.
+I am happy to talk anytime with Harvard grads and undergrads -- or current and prospective Caltech students and postdocs -- interested in working on a research project. 
 
 Contact Me
 ======
