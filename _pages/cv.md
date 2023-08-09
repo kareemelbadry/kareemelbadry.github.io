@@ -17,7 +17,7 @@ redirect_from:
 <h2>Education</h2>  
 * Ph.D, Astrophysics, UC Berkeley, 2021 
 * M.S, Astrophysics, UC Berkeley, 2018
-* B.S, Astronomy \& Physics, Yale University, 2016
+* B.S, Astronomy & Physics, Yale University, 2016
 
 <span style="color:#5DADE2">[My full CV](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
 
