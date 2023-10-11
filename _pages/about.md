@@ -13,7 +13,9 @@ I'm an Assistant Professor of Astronomy at the [California Institute of Technolo
 
 I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https://astronomy.yale.edu/) (B.S., astrophysics, 2016), a graduate student at [UC Berkeley](https://astro.berkeley.edu/) (Ph.D., astrophysics, 2021), and a postdoc at the [Harvard/Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/) (Junior Fellow, 2021-2023). I moved to Caltech in 2023. I also hold a recurring visitor appointment at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg. Besides astronomy, I like food, running, hiking and cycling, playing chess, and memes.
 
-I am happy to talk anytime with current and prospective Caltech students and postdocs interested in working on a research project. 
+I am happy to talk anytime with Caltech students and current or prospective postdocs interested in working on a research project. 
+
+Information about the Caltech graduate program is available [here](https://www.astro.caltech.edu/academics/graduate-program). I receive too many pre-admissions inquiries to respond to individually, but I will be happy to discuss research opportunties in my group if you are admitted to our program.
 
 Contact Me
 ======
