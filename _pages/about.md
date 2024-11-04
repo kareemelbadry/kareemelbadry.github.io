@@ -17,6 +17,8 @@ I am happy to talk anytime with Caltech students and current or prospective post
 
 Information about the Caltech graduate program is available [here](https://www.astro.caltech.edu/academics/graduate-program). I receive too many pre-admissions inquiries to respond to individually, but I will be happy to discuss research opportunties in my group if you are admitted to our program.
 
+I don't think scientists should have to pay to publish their results. I am a big supporter of [The Open Journal of Astrophysics](https://astro.theoj.org/) and have recently focused much of my refereeing and publishing there. Feel free to contact me if you are curious about this publishing model. 
+
 Contact Me
 ======
 kelbadry@caltech.edu
