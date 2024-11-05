@@ -187,7 +187,9 @@ collections:
   code/data:
     output: true
     permalink: /:collection/:path/
-
+  misc:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
