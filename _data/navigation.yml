@@ -11,8 +11,7 @@ main:
     
   - title: "Group"
     url: /group/
-        
-
+    
     
   - title: "CV"
     url: /cv/
@@ -20,5 +19,5 @@ main:
   - title: "Press"
     url: /press/
 
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Misc"
+    url: /misc/
