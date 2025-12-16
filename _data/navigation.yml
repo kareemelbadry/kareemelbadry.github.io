@@ -12,12 +12,14 @@ main:
   - title: "Group"
     url: /group/
     
-    
   - title: "CV"
     url: /cv/
     
   - title: "Press"
     url: /press/
 
+  - title: "Looking for a research project?"
+    url: /for_students/
+    
   - title: "Misc"
     url: /misc/
