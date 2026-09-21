@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 <h2>Employment</h2>  
-* Assistant Professor, Caltech, 2023-
+* Associate Professor, Caltech, 2026-
+* Assistant Professor, Caltech, 2023-2026
 * Junior Fellow, Harvard Society of Fellows, 2021-2023
 * ITC Fellow, Institute for Theory and Computation, 2021-2023
 * Fellow, Max Planck Institute for Astronomy, Heidelberg, 2021-2023
@@ -20,6 +21,5 @@ redirect_from:
 * B.S, Astronomy & Physics, Yale University, 2016
 
 <span style="color:#5DADE2">[My full CV](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
-
 
 
